@@ -1,0 +1,109 @@
+#title{
+    color: white;
+}
+
+
+
+body
+{
+	background: rgb(65, 175, 214);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width: 30%;
+		height: 150px;
+		background-color: whitew;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 3px;
+	color: white;
+	font-weight: bold;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+h1{
+	color: white;
+	font-family: 'Akaya Kanadaka', cursive;
+}
+h3{
+	font-family: 'Lora', serif;
+	color: white;
+}
+#username{
+	font-family: 'Yellowtail', cursive;
+	color: white;
+}
+button{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.login_div2:hover{
+	border: 5px solid rgb(102, 6, 73);
+	width: 35%;
+}
+.login_div1:hover{
+	border: 5px solid rgb(102, 6, 73);
+	width: 35%;
+}
+#number_1,#number_2
+{
+	color: black;
+	font-weight: bold;
+}
+h4{
+	color: white;
+	font-family: 'Akaya Kanadaka', cursive;
+	width: 100px;
+}
+
+#player1_score{
+	display: inline-block;
+	margin-left: 3px;
+	color: white;
+	font-weight: bold;
+	font-size: large;
+	font-family: 'Akaya Kanadaka', cursive;
+}
+
+#player2_score{
+	display: inline-block;
+	margin-left: 3px;
+	color: white;
+	font-weight: bold;
+	font-size: large;
+	font-family: 'Akaya Kanadaka', cursive;
+}
+
+#player_question{
+	color: white;
+	font-family: 'Akaya Kanadaka', cursive;
+}
+
+#player_answer{
+	color: white;
+	font-family: 'Akaya Kanadaka', cursive;
+}
